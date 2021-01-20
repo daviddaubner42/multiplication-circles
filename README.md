@@ -1,5 +1,5 @@
 # Multiplication Circle
-This Haskell file animates the multiplication circle for different numbers on a circle with  200 points.
+This Haskell program animates the multiplication circle for different numbers on a circle with  200 points.
 
 # Gloss
 This module requires the Gloss library for graphics.Installation:
